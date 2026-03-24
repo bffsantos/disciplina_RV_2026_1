@@ -39,7 +39,7 @@ Também tem um outro aplicativo desenvolvido no LDTT-FURB para a Defesa Civil de
 
 Já para o desenvolvimento, se pode usar duas formas:  
 
-- [GoogleCardboard_Desenvolvimento]: ambiente de desenvolvimento da própria Google.  
+- [GoogleCardboard_Desenvolvimento], ambiente de desenvolvimento da própria Google.  
 - Template do Unity Hub.  
 
 ## RA
