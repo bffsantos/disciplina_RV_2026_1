@@ -6,7 +6,7 @@
 
 [LDTT_DefesaCivil]: <https://drive.google.com/open?id=1HnItO60iTpd3bTNIxkrSBpxTurWLvP_r&usp=drive_fs> "LDTT_DefesaCivil"
 [GoogleCardboard_Aplicativo]: <https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=pt_BR> "GoogleCardboard_Aplicativo"  
-[GoogleCardboard_Desenvolvimento]: <(https://developers.google.com/cardboard?hl=pt-br> "GoogleCardboard_Desenvolvimento"  
+[GoogleCardboard_Desenvolvimento]: <https://developers.google.com/cardboard?hl=pt-br> "GoogleCardboard_Desenvolvimento"  
 [Vuforia_Desenvolvimento]: <https://developer.vuforia.com/> "Vuforia_Desenvolvimento"
 
 # Realidade Virtual - Unidade 3
@@ -39,7 +39,7 @@ Também tem um outro aplicativo desenvolvido no LDTT-FURB para a Defesa Civil de
 
 Já para o desenvolvimento, se pode usar duas formas:  
 
-- [GoogleCardboard_Desenvolvimento], ambiente de desenvolvimento da própria Google.  
+- [GoogleCardboard_Desenvolvimento]: ambiente de desenvolvimento da própria Google.  
 - Template do Unity Hub.  
 
 ## RA
