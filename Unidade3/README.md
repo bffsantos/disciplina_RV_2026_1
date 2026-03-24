@@ -42,7 +42,7 @@ Link: <https://www.udemy.com/share/101IFc3@cc15Cc09RRi4yhvNL17lYSoHfd2Sagan3-tQI
 ### Unity - Asset Store
 
 Sempre que possível, de preferência em usar os Assets (recursos) da própria loja da Unity [Unity_AssetSore]. Até é possível usar Assets externos (Ex.: [Objetos e imagens gráficas](#objetos-e-imagens-gráficas)), mas os da loja da Unity ([Unity_AssetSore])tendem a ter menos problemas para serem usados.  
-A [Unity_AssetSore] disponibiliza vários Assets gratuitos, mas também podem usar alguns assets já comprados usando o usuário:
+A [Unity_AssetSore] disponibiliza vários Assets gratuitos, mas também podem usar alguns assets já comprados usando o usuário [AssetSore_nossa](AssetSore_nossa):
 
 ```text
   User: dalton@furb.br  
