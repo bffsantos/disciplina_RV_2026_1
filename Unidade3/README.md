@@ -23,32 +23,6 @@ Algumas anotações feitas na aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 
 - explorar plataformas, bibliotecas, ferramentas e linguagens para desenvolvimento de ambientes de Realidade Virtual.  
 
-## RVi
-
-Para o desenvolvimento de um aplicativo com [RVi - Realidade Virtual Imersiva] pode-se iniciar usando um aplicativo pronto para testar o uso do Óculos Virtual com o Smartphone. Existe o aplicativo da própria Google, o [GoogleCardboard_Aplicativo].  
-
-![Cardboard_Tela](Cardboard_Tela.png)  
-Nesse aplicativo, se deve observar dois pontos:  
-
-a) essa linha vertical deve sempre aparecer centralizada entre as duas regiões das imagens, pois, caso contrário, tem algum problema com as configurações do smartphone e/ou aplicativo.  
-b) cursor virtual, que sempre aparece centralizado na tela, e, após alguns segundos, parado em uma posição, seleciona uma opção.  
-
-![Cardboard_TelaAnotacoes](Cardboard_TelaAnotacoes.png)  
-
-Também tem um outro aplicativo desenvolvido no LDTT-FURB para a Defesa Civil de Blumenau: [LDTT_DefesaCivil].  
-
-Já para o desenvolvimento, se pode usar duas formas:  
-
-- [GoogleCardboard_Desenvolvimento]: ambiente de desenvolvimento da própria Google.  
-- Template do Unity Hub.  
-
-## RA
-
-Já, para o desenvolvimento de um aplicativo com [RA - Realidade Aumentada] se tem duas formas:
-
-- com marcador: [Vuforia_Desenvolvimento].  
-- sem marcador: Template do Unity Hub.  
-
 ## Atividade de Aula
 
 Agora é o momento de planejar o **aplicativo** que será desenvolvido como um projeto dessa disciplina. Para isso, peço que usem o arquivo [PlanejamentoAplicativo](PlanejamentoAplicativo.docx) para planejar como será desenvolvido esse projeto.  
@@ -73,7 +47,7 @@ A [Unity_AssetSore] disponibiliza vários Assets gratuitos, mas também podem us
 ```text
   User: dalton@furb.br  
   Pwd : Furb2022  
-````
+```
 
 ### Objetos e imagens gráficas
 
@@ -82,6 +56,36 @@ A [Unity_AssetSore] disponibiliza vários Assets gratuitos, mas também podem us
 - <https://icons8.com.br>
 - <https://opengameart.org>
 - <https://sketchfab.com>
+
+## Como iniciar
+
+Após a definição do cenário ([Atividade de Aula](#atividade-de-aula)), é importante verificar qual a melhor forma de ter a Realidade Virtual no **aplicativo**, considerando o tipo de Realidade Virtual escolhido.
+
+### RVi
+
+Para o desenvolvimento de um aplicativo com [RVi - Realidade Virtual Imersiva] pode-se iniciar usando um aplicativo pronto para testar o uso do Óculos Virtual com o Smartphone. Existe o aplicativo da própria Google, o [GoogleCardboard_Aplicativo].  
+
+![Cardboard_Tela](Cardboard_Tela.png)  
+Nesse aplicativo, se deve observar dois pontos:  
+
+a) essa linha vertical deve sempre aparecer centralizada entre as duas regiões das imagens, pois, caso contrário, tem algum problema com as configurações do smartphone e/ou aplicativo.  
+b) cursor virtual, que sempre aparece centralizado na tela, e, após alguns segundos, parado em uma posição, seleciona uma opção.  
+
+![Cardboard_TelaAnotacoes](Cardboard_TelaAnotacoes.png)  
+
+Também tem um outro aplicativo desenvolvido no LDTT-FURB para a Defesa Civil de Blumenau: [LDTT_DefesaCivil].  
+
+Já para o desenvolvimento, se pode usar duas formas:  
+
+- [GoogleCardboard_Desenvolvimento]: ambiente de desenvolvimento da própria Google.  
+- Template do Unity Hub.  
+
+### RA
+
+Já, para o desenvolvimento de um aplicativo com [RA - Realidade Aumentada], se tem duas formas:
+
+- com marcador: [Vuforia_Desenvolvimento].  
+- sem marcador: Template do Unity Hub.  
 
 ----------
 
